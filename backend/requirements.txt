@@ -1,0 +1,5 @@
+Django
+djangorestframework
+gunicorn
+whitenoise
+django-cors-headers
